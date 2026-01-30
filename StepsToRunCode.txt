@@ -1,0 +1,12 @@
+1) Open colab
+2) Upload the code (file name: ImagineAI.ipynb)
+3) Change the runtime to T4 (for better working, it takes less time to run code.)
+4) Run the cell.
+5) After running it will give you a URL that the web app URL. Click on it, web app wil open in new tab.
+6) Now, the project is good to go. Write prompt in the prompt input section and if you want adjust the remaining settings. For better results use gpt to write the prompt.
+
+Note: 
+We use Gradio to create the web application. Gradio is a Python library that helps developers easily build simple and interactive web interfaces for machine learning models. It allows users to enter text prompts, adjust settings using sliders, and view the generated images directly in a web browser without needing any frontend coding.
+
+How the URL is Generated:
+When the code is run in Google Colab, Gradio starts a local web server in the background. Gradio automatically creates a temporary public URL so that the web app can be accessed from the browser. This URL appears in the output after the cell finishes running. When the user clicks on the URL, the Gradio web application opens in a new browser tab, where the user can interact with the text-to-image generator. This URL remains active as long as the Colab session is running.

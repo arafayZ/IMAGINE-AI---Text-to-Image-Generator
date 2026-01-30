@@ -1,0 +1,7 @@
+Model Description:
+The system uses a Stable Diffusion XL–based model called Segmind SSD-1B to generate images from text. This model works by understanding the words given by the user and then creating an image step by step. It starts from random noise and slowly improves the image until it matches the text prompt. The model is trained on a large number of images, which helps it create high-quality and realistic pictures. Users can control the image size, quality, and how closely the image follows the text. This model is fast, efficient, and suitable for text-to-image generation applications.
+
+Youtube Links To Understand The Model:
+1) https://youtu.be/iv-5mZ_9CPY?si=goXolfTtq4aA9ktw
+2) https://youtube.com/shorts/IjJAS6Bigps?si=GHFsgiiki26JSVfU
+3) https://youtube.com/shorts/cIKIpaIZdnw?si=3FGzQdk1P8i_OQgn
